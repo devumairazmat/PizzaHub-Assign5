@@ -1,0 +1,152 @@
+body {
+  margin: 0rem;
+  padding: 0rem;
+  overflow-x: hidden;
+}
+
+.custam-nav {
+  justify-content: start;
+  color: rgb(255, 255, 255);
+  filter: drop-shadow(0px 4px 4px rgb(0, 0, 0));
+}
+.navbar {
+  padding-top: 30px;
+
+  font-size: 15px;
+}
+.nav-item a {
+  font-family: NewYorkSmallRegular;
+  color: rgb(3, 3, 3);
+  color: white;
+}
+.nav-item a:hover {
+  color: #f64b3c;
+}
+#toolbarbtn {
+  border-color: white;
+  margin-left: 90px;
+  color: white;
+  background-color: grey;
+}
+#topbtn {
+  border-radius: 200px;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  background-color: #f64b3c;
+  border-color: #f64b3c;
+  margin-top: 10px;
+}
+#sechead {
+  text-align: center;
+  font-weight: 700;
+  color: #f64b3c;
+  margin-top: 30px;
+}
+
+#secparah {
+  text-align: start;
+  font-size: 15px;
+  text-align: center;
+  line-height: 1rem;
+  height: 20px;
+  color: #f64b3c;
+}
+#secbtn {
+  border-radius: 200px;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  background-color: white !important;
+  border-color: #f64b3c;
+  margin-top: 20px;
+  color: #f64b3c;
+}
+#thirdbtn {
+  border-radius: 200px;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  background-color: #f64b3c !important;
+  border-color: #f64b3c;
+  margin-top: 20px;
+  color: white;
+}
+#thirdhead {
+  text-align: center;
+  font-weight: 700;
+  color: white !important;
+  margin-top: 30px;
+}
+#thirdparah {
+  text-align: start;
+  font-size: 15px;
+  text-align: center;
+  line-height: 1rem;
+  height: 20px;
+  color: white !important;
+  margin-top: 20px;
+}
+.counter {
+  text-align: center;
+}
+.employees,
+.customer,
+.design {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.counter-count {
+  font-size: 35px;
+  border: 3px solid white;
+  border-radius: 50%;
+  color: #ffffff;
+  text-align: center;
+  line-height: 80px;
+  width: 200px;
+  height: 200px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  display: inline-block;
+}
+
+.employee-p,
+.customer-p,
+.order-p,
+.design-p {
+  font-size: 24px;
+  color: #000000;
+  line-height: 34px;
+}
+#btncard {
+  border-radius: 200px;
+  width: 200px;
+  height: 40px;
+  font-weight: 500;
+  text-align: center;
+  background-color: #f64b3c !important;
+  border-color: #f64b3c;
+  color: white;
+}
+#sevenbtn {
+  border-radius: 200px;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  background-color: #f64b3c !important;
+  border-color: #f64b3c;
+  margin-top: 20px;
+  color: white;
+  align-content: center;
+  justify-content: center;
+}
+.fa {
+  font-size: 30px;
+  width: 30%;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
